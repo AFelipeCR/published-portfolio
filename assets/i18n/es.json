@@ -1,0 +1,186 @@
+{
+    "forms": {
+        "name": "Nombre",
+        "email": "Email",
+        "message": "Mensaje"
+    },
+    "sections": {
+        "hero": {
+            "introduce": "Hola, soy ",
+            "profession": "Ingeniero de Sistemas y Computación ",
+            "description": "Enfocado en resolver problemas complejos mediante código limpio y alta atención al detalle. Desarrollo soluciones full-stack escalables con tecnologías modernas."
+        },
+        "techStack": {
+            "title": "Tech Stack",
+            "description": "Dominios de Ingeniería y Tecnologías Principales",
+            "techStack": [
+                {
+                    "category": "Ingeniería de Software y Lenguajes",
+                    "skills": [
+                        { "name": "TypeScript", "icon": "cib--typescript" },
+                        { "name": "Java", "icon": "devicon-java-plain" },
+                        { "name": "C#", "icon": "devicon-csharp-plain" },
+                        { "name": "Python", "icon": "devicon-python-plain" },
+                        { "name": "PHP", "icon": "devicon-php-plain" },
+                        { "name": "JavaScript (ES6+)", "icon": "devicon-javascript-plain" },
+                        { "name": "Principios OOP y SOLID", "icon": "devicon-matcha-plain" }
+                    ],
+                    "color": "afcr-brand-1"
+                },
+                {
+                    "category": "Backend y Sistemas Distribuidos",
+                    "skills": [
+                        { "name": "Spring Boot", "icon": "devicon-spring-plain" },
+                        { "name": "NestJS", "icon": "devicon-nestjs-plain" },
+                        { "name": "ASP.NET Core", "icon": "devicon-dotnetcore-plain" },
+                        { "name": "Django / Flask", "icon": "devicon-django-plain" },
+                        { "name": "Laravel", "icon": "devicon-laravel-original" },
+                        { "name": "Arquitectura de Microservicios", "icon": "" },
+                        { "name": "APIs RESTful y Swagger", "icon": "devicon-swagger-plain" }
+                    ],
+                    "color": "afcr-accent-2"
+                },
+                {
+                    "category": "Desarrollo Frontend y Móvil",
+                    "skills": [
+                        { "name": "Angular", "icon": "devicon-angular-plain" },
+                        { "name": "Ionic Framework", "icon": "devicon-ionic-original" },
+                        { "name": "Tailwind CSS", "icon": "devicon-tailwindcss-original" },
+                        { "name": "Android Nativo", "icon": "devicon-android-plain" },
+                        { "name": "Angular Material", "icon": "devicon-angular-plain-wordmark" },
+                        { "name": "RxJS (Observables)", "icon": "devicon-rxjs-plain" }
+                    ],
+                    "color": "afcr-action-1"
+                },
+                {
+                    "category": "Infraestructura y Redes",
+                    "skills": [
+                        { "name": "AWS (EC2/S3/Lambda)", "icon": "devicon-amazonwebservices-plain-wordmark" },
+                        { "name": "Docker y Contenedores", "icon": "devicon-docker-plain" },
+                        { "name": "Administración de Servidores Linux", "icon": "devicon-linux-plain" },
+                        { "name": "Nginx (Proxy Inverso)", "icon": "devicon-nginx-original" },
+                        { "name": "Balanceo de Carga", "icon": "" },
+                        { "name": "Modelo TCP/IP y OSI", "icon": "" },
+                        { "name": "SSH, DNS y FTP", "icon": "" }
+                    ],
+                    "color": "afcr-brand-2"
+                },
+                {
+                    "category": "Persistencia de Datos",
+                    "skills": [
+                        { "name": "PostgreSQL", "icon": "devicon-postgresql-plain" },
+                        { "name": "MongoDB", "icon": "devicon-mongodb-plain" },
+                        { "name": "Redis", "icon": "devicon-redis-plain" },
+                        { "name": "MySQL / MariaDB", "icon": "devicon-mysql-plain" },
+                        { "name": "Prisma", "icon": "devicon-prisma-original" },
+                        { "name": "Mongoose", "icon": "devicon-mongoose-original" },
+                        { "name": "Sequelize", "icon": "devicon-sequelize-plain" }
+                    ],
+                    "color": "afcr-accent-1"
+                },
+                {
+                    "category": "Flujo de Trabajo de Ingeniería",
+                    "skills": [
+                        { "name": "Git (GitFlow)", "icon": "devicon-git-plain" },
+                        { "name": "Figma", "icon": "devicon-figma-plain" },
+                        { "name": "Maven", "icon": "devicon-maven-plain" },
+                        { "name": "Gradle", "icon": "devicon-gradle-plain" },
+                        { "name": "Jira y Trello", "icon": "devicon-jira-plain" },
+                        { "name": "Agile (Scrum / Kanban)", "icon": "" }
+                    ],
+                    "color": "afcr-action-2"
+                }
+            ]
+        },
+        "background": {
+            "title": "Trayectoria Profesional y Académica",
+            "description": "Dedicado al aprendizaje continuo y al crecimiento profesional, aprovechando mi conocimiento integral de Java, Python y frameworks web modernos para resolver problemas complejos.",
+            "jobs": [
+                {
+                    "company": "TXZ S.A.S",
+                    "role": "Desarrollador Junior",
+                    "period": "Mar 2024 - Ago 2024",
+                    "location": "Remoto / Colombia",
+                    "description": "Enfocado en la optimización web de alto rendimiento e ingeniería de datos en tiempo real.",
+                    "achievements": [
+                        "Optimización de aplicaciones web para asegurar un alto rendimiento y compatibilidad entre navegadores, logrando una reducción del 80% en los tiempos de carga de las páginas.",
+                        "Desarrollo de una herramienta de chat en tiempo real utilizando Firebase, resultando en un incremento del 70% en el compromiso de los usuarios.",
+                        "Ejecución de protocolos de limpieza y normalización de datos en conjuntos de datos complejos, mejorando la integridad de los datos y reduciendo el tiempo de recuperación en un 80%."
+                    ]
+                },
+                {
+                    "company": "Fidelio Digital S.A.S",
+                    "role": "Desarrollador Junior",
+                    "period": "Abr 2022 - Oct 2022",
+                    "location": "Remoto / Colombia",
+                    "description": "Mantenimiento de sistemas y desarrollo de herramientas de comunicación automatizadas para los sectores académico e inmobiliario.",
+                    "achievements": [
+                        "Gestión y mantenimiento de páginas web, asegurando integridad y funcionalidad óptimas, contribuyendo a la mejora de los tiempos de carga en un 70%.",
+                        "Desarrollo de chatbots para actividades académicas, mejorando la comunicación y el compromiso de los usuarios, lo que aumentó la interacción en un 60%.",
+                        "Limpieza y organización de información en bases de datos inmobiliarias, asegurando que los datos estuvieran filtrados y listos para el análisis, reduciendo el tiempo de recuperación en un 60%."
+                    ]
+                }
+            ],
+            "learnings": [
+                {
+                    "institution": "Edmonds College",
+                    "degree": "Certificado en Desarrollo Full Stack",
+                    "details": "Capacitación integral en programación Java y soluciones web modernas.",
+                    "location": "Edmonds, Washington, Estados Unidos",
+                    "period": "2025-Presente"
+                },
+                {
+                    "institution": "Universidad Pedagógica y Tecnológica de Colombia",
+                    "degree": "Ingeniería de Sistemas y Computación",
+                    "details": "Principios avanzados de ingeniería aplicados al diseño de software e infraestructura de redes.",
+                    "location": "Tunja, Boyacá, Colombia",
+                    "period": "2017-2024"
+                }
+            ]
+        },
+        "projects": {
+            "title": "Proyectos",
+            "description": "",
+            "noyet": "Soluciones técnicas enfocadas en la visualización de datos, modularidad y arquitecturas escalables.",
+            "codeButton": "Código",
+            "items": [
+                {
+                    "id": "thought-visualizer",
+                    "title": "Thought Visualizer",
+                    "status": "En Desarrollo / Prototipo",
+                    "description": "Un Web Component diseñado para mapear y visualizar relaciones entre documentos. Inspirado en el gráfico de conocimiento de Obsidian, utiliza algoritmos de grafos dirigidos por fuerza para organizar documentación de proyectos basada en Markdown.",
+                    "technicalHighlights": [
+                        "Implementado utilizando la librería force-graph para diagramas dinámicos de nodos y enlaces.",
+                        "Desarrollado como un Web Component agnóstico al framework para una integración fluida.",
+                        "Diseñado para la organización de documentos complejos y el mapeo de datos jerárquicos."
+                    ],
+                    "technologies": ["TypeScript", "Force-Graph", "Web Components", "Markdown"],
+                    "repository": "https://github.com/AFelipeCR/thought-visualizer"
+                },
+                {
+                    "id": "scroll-animator",
+                    "title": "Scroll Animator",
+                    "status": "In Development / Beta",
+                    "description": "Un motor de animaciones diseñado para interacciones complejas de scroll. Cuenta con un sistema de mezcla de keyframes que evita conflictos de propiedades cuando múltiples animaciones afectan al mismo elemento.",
+                    "technicalHighlights": [
+                        "Desarrollo de un algoritmo de fusión de propiedades para consolidar estilos de líneas de tiempo superpuestas.",
+                        "Soporte nativo para comportamientos de bucle avanzados (yoyo, repeat) con persistencia de estado.",
+                        "Arquitectura de renderizado optimizada mediante un sistema desacoplado de cálculo y aplicación (bake/merge)."
+                    ],
+                    "technologies": ["TypeScript", "CSS Transforms", "Interpolación Matemática"],
+                    "repository": "https://github.com/AFelipeCR/scroll-animator"
+                }
+            ]
+        },
+        "contact": {
+            "title": "Contacto",
+            "description": "Actualmente estoy abierto a nuevas oportunidades. Hablemos sobre cómo puedo contribuir a tu equipo.",
+            "askMessage": "Envíame un mensaje",
+            "infoTitle": "Información de contacto",
+            "namePlaceholder": "Tu nombre",
+            "emailPlaceholder": "tu.correo@ejemplo.com",
+            "messagePlaceholder": "Por favor, describe la oportunidad o proyecto que te gustaría discutir...",
+            "messageButtonText": "Enviar mensaje"
+        }
+    }
+}
